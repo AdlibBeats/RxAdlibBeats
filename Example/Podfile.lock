@@ -1,0 +1,16 @@
+PODS:
+  - RxAdlibBeats (0.1.0)
+
+DEPENDENCIES:
+  - RxAdlibBeats (from `../`)
+
+EXTERNAL SOURCES:
+  RxAdlibBeats:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RxAdlibBeats: dfbd90c674305a5296342fe5c1eac7ddf62aeb6e
+
+PODFILE CHECKSUM: 12230fe871088a5e3f52028629b69f9affd0143e
+
+COCOAPODS: 1.9.3
