@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import RxAdlibBeats
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        RxAdlibBeats.shared.printTitle()
     }
 
     override func didReceiveMemoryWarning() {
